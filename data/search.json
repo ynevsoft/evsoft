@@ -1,7 +1,15 @@
 [
   {
+    "name": "F搜",
+    "url": "https://fsou.cc/search?q=",
+    "icon": "https://cdn.jsdelivr.net/gh/ynevsoft/evsoft@image/nav-1641274447196-d1e0ef83-e477-4277-8465-3315ed29eee7.png",
+    "placeholder": "F搜一下",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "icon": "https://cdn.jsdelivr.net/gh/ynevsoft/evsoft@image/nav-1641274554568-地球村.png",
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true
