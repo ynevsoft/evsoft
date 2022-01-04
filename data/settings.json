@@ -3,7 +3,7 @@
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
+  "showGithub": false,
   "title": "地球村 - 实用导航",
   "description": "地球村 - 实用导航",
   "keywords": "导航,软件,资源,社区,站点,设计,实用,工具,学习,资源,运营,网络,安全,node.js",
